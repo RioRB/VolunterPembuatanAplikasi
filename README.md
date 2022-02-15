@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Rio Ramadhan Bahtiar, [rio.rb.id](https://rio.rb.id).
+* Rio Ramadhan Bahtiar 2, [Linkedin](https://www.linkedin.com/).
